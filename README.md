@@ -1,4 +1,4 @@
-# Node.js Audio Streaming
+# Node.js Audio Video Streaming
 
 ---
 
@@ -8,11 +8,11 @@
 
 # Routes
 
-### To get an audio track
+### To get an audio, video track
 
 - tracks/:id: :get (where id === trackId)
 
-### To post an audio track
+### To post an audio, video track
 
 - tracks :post
 
